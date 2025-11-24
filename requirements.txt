@@ -1,0 +1,26 @@
+# Supply Chain Validator - Python Dependencies
+
+# Core Dependencies
+python-dotenv==1.0.0
+
+# LLM and AI
+openai==1.59.8
+langchain==1.0.8
+langchain-openai==1.0.3
+langchain-community==0.4.1
+langchain-core==1.1.0
+langgraph==1.0.3
+langgraph-checkpoint==3.0.1
+
+# Graph Database
+neo4j==6.0.3
+
+# Web Framework
+streamlit==1.51.0
+
+# Data Processing
+pandas==2.2.3
+numpy==2.2.2
+
+# Utilities
+requests==2.32.3
